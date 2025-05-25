@@ -1,5 +1,7 @@
 # contexteval
 
+Navigate to `contexteval/` to start.
+
 ### setup
 
 ```
